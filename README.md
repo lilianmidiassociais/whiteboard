@@ -14,5 +14,5 @@ Trata-se de um projeto escrito puramente com as APIs disponíveis na JDK (Java D
 
 ## Desafio para você
 
-Ao disponibilizar esse projeto nosso objetivo é o exercício do Polimorfismo, conceito core da programação orientada a objeto.<br>
+Ao disponibilizar esse projeto nosso objetivo é o exercício do Polimorfismo, conceito core da programação orientada a objetos.<br>
 Para isso crie um triangulo a partir do "framework" que o projeto proporciona.
